@@ -48,7 +48,7 @@ Django · DRF · FastAPI · Flask · SQLAlchemy · PostgreSQL · Docker · GitHu
 - базове CRUDE, валидаторы, схемы, ендпоинты и сервисный слой;
 - вся логика для модели блюд.
 
-> Код пока не публикую в личном аккаунте — ожидаю разрешение команды. Описание — по согласованию с командой; стек: FastAPI, SQLAlchemy 2 (async), PostgreSQL, Redis, Celery, RabbitMQ, Docker, GitHub Actions.
+> Код пока не публикую в личном аккаунте — ожидаю разрешение команды. Описание — по согласованию с командой; стек: FastAPI, Uvicorn, SQLAlchemy 2 (async), PostgreSQL, Redis, Celery, RabbitMQ, Docker, GitHub Actions, Alembic, Pydantic v2, PyJWT, Argon2, Redis 7, Celery, RabbitMQ 3.13, Flower, Pillow, Loguru, Ruff.
 
 ### FoodGram — веб-приложение для публикации и обмена рецептами.
 
