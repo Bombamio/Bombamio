@@ -2,9 +2,10 @@
 
 **Junior Backend Developer / Python Developer** · Минск
 
-GitHub: [Bombamio](https://github.com/Bombamio)
-Telegram: [@Bombamio](https://t.me/Bombamio)
-Телефон: +375298297694
+* GitHub: [Bombamio](https://github.com/Bombamio)
+* Telegram: [@Bombamio](https://t.me/Bombamio)
+* Email: [ilyayausei@gmail.com](mailto:ilyayausei@gmail.com)
+* Телефон: +375298297694
 
 ---
 
@@ -38,7 +39,7 @@ Django · DRF · FastAPI · Flask · SQLAlchemy · PostgreSQL · Docker · GitHu
 
 ## Портфолио
 
-### BookingSeats — API бронирования мест в кафе *(командный проект)*
+### BookingSeats — API бронирования мест в кафе *(командный проект)*.
 
 Финальный командный проект Яндекс Практикума (команда 4, поток 68–69). REST API на **FastAPI** для сети кафе: заведения, столы, слоты, меню, акции, бронирования с предзаказом, JWT, Redis, Celery.
 
@@ -48,18 +49,50 @@ Django · DRF · FastAPI · Flask · SQLAlchemy · PostgreSQL · Docker · GitHu
 - базове CRUDE, валидаторы, схемы, ендпоинты и сервисный слой;
 - вся логика для модели блюд.
 
-> Код пока не публикую в личном аккаунте — ожидаю разрешение команды. Описание — по согласованию с командой; стек: FastAPI, Uvicorn, SQLAlchemy 2 (async), PostgreSQL, Redis, Celery, RabbitMQ, Docker, GitHub Actions, Alembic, Pydantic v2, PyJWT, Argon2, Redis 7, Celery, RabbitMQ 3.13, Flower, Pillow, Loguru, Ruff.
+- Стек: FastAPI, Uvicorn, SQLAlchemy 2 (async), PostgreSQL, Redis, Celery, RabbitMQ, Docker, GitHub Actions, Alembic, Pydantic v2, PyJWT, Argon2, Redis 7, Celery, RabbitMQ 3.13, Flower, Pillow, Loguru, Ruff.
+- Репозиторий: [Bombamio/Booking-Seats](https://github.com/Bombamio/Booking-Seats).
+
+---
 
 ### FoodGram — веб-приложение для публикации и обмена рецептами.
 
 Полноценный backend на **Django REST Framework** + готовый React-фронтенд курса. Реализованы пользователи и подписки, рецепты, избранное, список покупок, фильтры и пагинация. Деплой на сервер: **Docker**, **Nginx**, **GitHub Actions**.
 
-- Стек: Django, DRF, Djoser, PostgreSQL, React, Docker, Nginx, GitHub Actions  
-- Репозиторий: [Bombamio/foodgram](https://github.com/Bombamio/foodgram)
+- Стек: Django, DRF, Djoser, PostgreSQL, React, Docker, Nginx, GitHub Actions.  
+- Репозиторий: [Bombamio/foodgram](https://github.com/Bombamio/foodgram).
 
-### Kittygram - Веб-приложение для публикации информации о домашних животных.
+---
+
+### Kittygram — веб-приложение для публикации информации о домашних животных.
 
 API с карточками питомцев, лентой и подписками. Backend реализован через Django, деплой через Docker.
 
-- Стек: Django, DRF, PostgreSQL, Docker, Gunicorn, GitHub Actions  
-- Репозиторий: [Bombamio/kittygram_final](https://github.com/Bombamio/kittygram_final)
+- Стек: Django, DRF, PostgreSQL, Docker, Gunicorn, GitHub Actions.
+- Репозиторий: [Bombamio/kittygram_final](https://github.com/Bombamio/kittygram_final).
+
+---
+
+### Cat Charity Fund — сервис для поддержки благотворительных проектов.
+
+Сервис, для направления материальной помощи кошкам. Пользователи могут создовать блоготворительные проекты и делать пожертвования. Все поступающие средства распределяются между открытыми проектами по очереди.
+
+- Стек: FastAPI, SQLAlchemy, Alembic, Pydantic, FastAPI Users, SQLite.
+- Репозиторий: [Bombamio/QRkot-spreadsheets](https://github.com/Bombamio/QRkot-spreadsheets).
+
+---
+
+### Homework Bot — Telegram-бот статуса домашней работы.
+
+Бот проверяет статус проверки домашней работы через API Практикума и присылает уведомления в Telegram.
+
+- Стек: Python, python-telegram-bot / requests
+- Репозиторий: [Bombamio/homework-bot](https://github.com/Bombamio/homework-bot)
+
+---
+
+### YaMDB — API отзывов на произведения *(командный проект)*.
+
+RESTful API на DRF: произведения, отзывы, комментарии, рейтинги, роли пользователей, JWT, импорт из CSV, документация OpenAPI/Redoc.
+
+- Стек: Django, DRF, Simple JWT, PostgreSQL/SQLite
+- Репозиторий: [Bombamio/api-yamdb](https://github.com/Bombamio/api-yamdb)
